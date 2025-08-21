@@ -41,8 +41,8 @@ This project demonstrates a scalable microservices application built using Pytho
 
 2.**Build and run locally using Docker Compose:**
     ```bash
-    docker-compose up --build
     
+    docker-compose up --build
     Access the app at http://localhost:<port> as configured.
 
 3. **Deploy to Kubernetes with Helm:**
