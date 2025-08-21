@@ -36,8 +36,8 @@ This project demonstrates a scalable microservices application built using Pytho
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <repo-folder>
+   git clone https://github.com/lanurm/microservices-in-python.git
+   cd microservices
 
 2.**Build and run locally using Docker Compose:**
     ```bash
